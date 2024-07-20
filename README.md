@@ -10,7 +10,7 @@ npm install
 ## Ejecución
 
 ```bash
-npm start
+npm run start
 ```
 
 ## Rutas
